@@ -1,0 +1,9 @@
+# CraftQuick Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://craftquick.in/sitemap.xml
+
+# Disallow admin or private paths (add as needed)
+# Disallow: /admin/
